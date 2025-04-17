@@ -71,6 +71,7 @@ El asistente cuenta con dos herramientas principales:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Esquema de la Base de Datos
 La base de datos del hotel incluye tablas para:
